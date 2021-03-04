@@ -8,6 +8,8 @@ import promiseMiddleware from "redux-promise";
 import ReduxThunk from "redux-thunk";
 import Routes from './Routes';
 import reducers from './reducers/index';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './index.css'
 
 import reportWebVitals from './reportWebVitals';
 
